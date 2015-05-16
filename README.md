@@ -1,5 +1,5 @@
 # Data Science 
 
-by Daniel Cashin
+Daniel Cashin
 
 Spring 2015
